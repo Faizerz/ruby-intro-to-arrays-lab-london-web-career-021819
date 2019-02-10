@@ -18,3 +18,6 @@ def last_element(array)
  n = array.count()
  array[n-1]
 end
+
+def first_element_with_array_methods(array)
+  
